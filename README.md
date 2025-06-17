@@ -1,5 +1,4 @@
-I’m looking to collaborate on dart/flutter, python/django/fastapi, js, c#/.net & php
-X @waka_walid
+dart/flutter, python/django/fastapi, js/react/nextjs/typescript, c#/.net & php
 
 <!---
 msomali/msomali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
